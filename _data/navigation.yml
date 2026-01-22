@@ -1,14 +1,11 @@
 main:
-
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "CV"
-    url: #/files/CV_Shawn_Yang.pdf
-  - title: "Awards"
-    url: /awards/
-  - title: "Grants"
-    url: /grants/
-  - title: "Service"
-    url: /service/
+    url: /cv/
+  - title: "CV"
+    url: #/files/CV_Shawn_YANG.pdf
