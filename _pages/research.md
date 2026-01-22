@@ -30,7 +30,7 @@ We improve day-ahead electricity price forecasting in Australia by integrating l
 ---
 
 ## Theme 4: Stochastical controal and optimization
-**Focus:** Optimal control problem in continuous time and their numerical solutions.
+**Focus:** Optimal control problem in continuous time and their numerical solutions. (Master)
 
 **Published paper:**
 - Ma, J. and Yang, S. (2024). *High-dimensional stochastic control models for newsvendor problems and deep learning resolution*. **Annals of Operations Research**.
