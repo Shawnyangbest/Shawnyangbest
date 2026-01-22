@@ -22,9 +22,9 @@ repository               : "shawnyangbest/shawnyangbest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "profile.png"   # put profile.png in /images/ if you want it on homepage only
-  name             : "Shawn Yang"
+  name             : "Shan (Shawn) Yang"
   pronouns         :
-  bio              : "PhD candidate at UNSW. Systemic risk in reinsurance networks, climate risk and insurance, electricity price forecasting."
+  bio              : "PhD candidate at School of Risk and Actuarial Studies, UNSW Sydney"
   location         : "Sydney, Australia"
   employer         : "UNSW Sydney"
   uri              :
@@ -46,14 +46,6 @@ author:
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -107,8 +99,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+#og_image                 :  # Social media default site image
+#og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -185,18 +177,12 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  workingpapers:
+  research:
     output: true
     permalink: /workingpapers/:path/
   teaching:
     output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/  
   
   
 
