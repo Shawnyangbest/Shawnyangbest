@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shawn Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shawn Yang"
-description              : &description "PhD candidate in Risk & Actuarial Studies at UNSW. Research: systemic risk, reinsurance networks, climate risk, and electricity markets."
+description              : &description "PhD candidate in Risk & Actuarial Studies at UNSW."
 url                      : "https://shawn-yang.com"
 baseurl                  : ""
-repository               : "shawnyangbest/shawnyangbest.github.io"
+repository               : 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -189,67 +189,35 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # Blog posts (if you ever use them)
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+  # Pages (Home, Research, Teaching, CV, etc.)
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: false
-  # _teaching
+
+  # Teaching collection (if you keep /teaching/)
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
       author_profile: false
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: false
-      share: true
-  # wp
-  - scope:
-      path: ""
-      type: workingpapers
-    values:
-      layout: single
-      author_profile: false
-
+      share: false
+      comments: false
 
 # Sass/SCSS
 sass:
