@@ -22,7 +22,7 @@ repository               : "shawnyangbest/shawnyangbest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "profile.png"   # put profile.png in /images/ if you want it on homepage only
-  name             : "Shan (Shawn) Yang"
+  name             : "Shawn Yang"
   pronouns         :
   bio              : "PhD candidate at School of Risk and Actuarial Studies, UNSW Sydney"
   location         : "Sydney, Australia"
