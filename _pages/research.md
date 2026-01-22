@@ -35,6 +35,6 @@ We improve day-ahead electricity price forecasting in Australia by integrating l
 ## Theme 3: Stochastical controal and optimization 
 **Focus:** Optimal control problem in continuous time and their numerical solutions.
 
-**Published papers during my Master:**
+**Peer-reviewed publications (Master’s):**
 - Ma, J. and Yang, S. (2024). *High-dimensional stochastic control models for newsvendor problems and deep learning resolution*. **Annals of Operations Research**, 339, 789–811.
 - Ma, J., Xing, J., and Yang, S. (2022). *Dual Control Methods for a Mixed Control Problem with Optimal Stopping Arising in Optimal Consumption and Investment*. **Numerical Mathematics: Theory, Methods and Applications**, 15(3), 641-661.
