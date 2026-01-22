@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Research"
+permalink: /research/
+author_profile: false
+---
+
 ## Theme 1: Systemic risk in reinsurance networks
 **Focus:** Network contagion, default cascades, spillover loss, and systemic importance in reinsurance and retrocession markets.
 
