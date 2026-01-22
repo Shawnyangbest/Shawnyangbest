@@ -30,12 +30,12 @@ author:
   uri              :
   email            : "s.yang@unsw.edu.au"
 
-  googlescholar    :
+  googlescholar    :"https://scholar.google.com/citations?user=eVTlECUAAAAJ&hl=en"
   orcid            :
   ssrn             :
 
   github           : 
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/shawn-yang-unsw/"
 
 
   # Repositories and software development
