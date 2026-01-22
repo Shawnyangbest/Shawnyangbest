@@ -22,7 +22,7 @@ This paper develops a Bayesian learning framework to study deep uncertainty in t
 ---
 
 ## Theme 3: Electricity price forecasting with spatial-temporal weather indices
-**Focus:** Day-ahead price forecasting with interpretable time-series models and spatial-temporal weather indices (DLNM, multi-seasonality, backfitting).
+**Focus:** Day-ahead price forecasting with interpretable time-series models and spatial-temporal weather indices.
 
 **Working paper:** *Forecasting Australian Electricity Spot Prices with Spatial-temporal Weather Indices* (with Katja Ignatieva and Han Li)  
 We improve day-ahead electricity price forecasting in Australia by integrating linear time-series models with external spatial-temporal weather indices and demand factors. The model accommodates multiple seasonalities and employs distributed lag non-linear models (DLNM) to capture delayed and non-linear effects of weather variables (temperature, precipitation, humidity, wind speed) on price formation. Using a backfitting strategy, we develop a stable and interpretable forecasting framework that is well suited to incorporating weather predictions. Overall, the results demonstrate the value of spatial-temporal weather indices for electricity price forecasting.
