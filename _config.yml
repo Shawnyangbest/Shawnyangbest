@@ -15,7 +15,7 @@ name                     : &name "Shawn Yang"
 description              : &description "PhD candidate in Risk & Actuarial Studies at UNSW."
 url                      : "https://shawn-yang.com"
 baseurl                  : ""
-repository               : 
+repository               : "shawnyangbest/shawnyangbest.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -177,12 +177,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  research:
-    output: true
-    permalink: /workingpapers/:path/
   teaching:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /teaching/:path/
   
   
 
