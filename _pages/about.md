@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Shawn Yang"
+title: ""
 permalink: /
 author_profile: true
 ---
