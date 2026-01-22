@@ -1,7 +1,8 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: #/teaching/
+ # - title: "Teaching"
+   # url: #/teaching/
   - title: "CV"
-    url: #/files/CV_Shawn_YANG.pdf
+   url: /cv/
+   # url: /files/CV_Shawn_YANG.pdf
