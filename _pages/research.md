@@ -2,7 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: True
 ---
 
 ## Theme 1: Systemic risk in reinsurance networks 
