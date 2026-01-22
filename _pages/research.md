@@ -5,16 +5,16 @@ permalink: /research/
 author_profile: false
 ---
 
-## Theme 1: Systemic risk in reinsurance networks
+## Theme 1: Systemic risk in reinsurance networks 
 **Focus:** Network contagion, default cascades, spillover loss, and systemic importance in reinsurance and retrocession markets.
 
-**Working paper:** *Systemic Risk in Reinsurance Networks* (with Hua Chen and Qihe Tang)  
+**Working paper:** *Spillover Losses in Reinsurance Network under Common Shocks* (with Hua Chen and Qihe Tang)  
 We construct a reinsurance network in which (re)insurers transfer insured risks through reinsurance and retrocession contracts. We study systemic risk measured by spillover losses arising when liability payoffs are reduced due to cascading defaults. Under tail dependence in primary losses, we examine how network integration shapes spillover losses and find a generally U-shaped relationship between integration and systemic risk. We further implement a leave-one-out (LOO) approach to identify systemically important reinsurers and validate their importance using bailout tests. Extensive simulations calibrated to U.S. Property and Casualty reinsurance data support the key findings.
 
 ---
 
-## Theme 2: Climate risk and Bayesian learning under deep uncertainty
-**Focus:** Bayesian learning of regional climate damages, spatial dependence, and time-to-confidence in climate impact assessment.
+## Theme 2: Econmic impact of Climate change under deep uncertainty
+**Focus:** Bayesian learning of regional climate damages, spatial dependence, and its economic impact.
 
 **Working paper:** *Bayesian Learning of Regional Economic Impacts of Climate Change* (with Qihe Tang)  
 This paper develops a Bayesian learning framework to study deep uncertainty in the economic impacts of climate change across regions. We disaggregate GDP losses from climate damages to capture regional heterogeneity and incorporate spatial dependence to reflect cross-regional correlations. The framework enables joint learning across regions by leveraging shared information. We characterize uncertainty reduction dynamics and estimate the time required to reach target confidence levels in damage assessments across countries and sectors. Joint learning converges faster than individual learning when uncertain parameters follow a multivariate normal distribution. The empirical application uses the FUND dataset and IPCC Representative Concentration Pathways (RCPs).
