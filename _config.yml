@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shawn Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shawn Yang"
 description              : &description "PhD candidate in Risk & Actuarial Studies at UNSW."
@@ -30,12 +30,12 @@ author:
   uri              :
   email            : "s.yang@unsw.edu.au"
 
-  googlescholar    :
+  googlescholar    :"https://scholar.google.com/citations?user=eVTlECUAAAAJ&hl=en"
   orcid            :
   ssrn             :
 
-  github           : "shawnyangbest"
-  linkedin         :
+  github           : 
+  linkedin         :"https://www.linkedin.com/in/shawn-yang-unsw/"
 
 
   # Repositories and software development
