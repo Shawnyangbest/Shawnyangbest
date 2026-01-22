@@ -32,8 +32,8 @@ We improve day-ahead electricity price forecasting in Australia by integrating l
 
 ---
 
-## Theme 3: Stochastical controal and optimization 
-**Focus:** Optimal control problem in continuous time and their numerical solutions.
+## Theme 3: Numerical solutions for stochastical controal in continuous time
+**Focus:** Dual problems, dimensional disaster, deep learning in solving equations.
 
 **Peer-reviewed publications (Master’s):**
 - Ma, J. and Yang, S. (2024). *High-dimensional stochastic control models for newsvendor problems and deep learning resolution*. **Annals of Operations Research**, 339, 789–811.
