@@ -17,6 +17,8 @@ payoffs decrease due to cascading defaults. Under tail dependence between primar
 
 We develop a Bayesian learning framework to study deep uncertainty in the economic impacts of climate change across regions. We disaggregate GDP losses from climate damages to capture regional heterogeneity and incorporate spatial dependence to reflect cross-regional correlations. The framework enables joint learning across regions by leveraging shared information. We characterize uncertainty reduction dynamics and estimate the time required to reach target confidence levels in damage assessments across countries and sectors. Joint learning converges faster than individual learning when uncertain parameters follow a multivariate normal distribution. The empirical application uses the FUND dataset and IPCC Representative Concentration Pathways (RCPs).
 
+*Awarded 2025–2026 UNSW Business School Sustainable Development Goals (SDGs) Research Grant*
+
 ---
 
 ## Theme 2: Electricity Price Forecasting with Weather Indices
