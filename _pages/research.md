@@ -24,7 +24,7 @@ We develop a Bayesian learning framework to study deep uncertainty in the econom
 ## Theme 2: Electricity Price Forecasting with Weather Indices
 **Focus:** Day-ahead forecasting; interpretable models.
 
-**Forecasting Australian Electricity Spot Prices with Spatial-temporal Weather Indices** (with Katja Ignatieva and Han Li)
+**Forecasting Australian Electricity Spot Prices with Weather Indices** (with Katja Ignatieva and Han Li)
 
 We improve day-ahead electricity price forecasting in Australia by integrating linear time-series models with external spatial-temporal weather indices and demand factors. The model accommodates multiple seasonalities and employs distributed lag non-linear models (DLNM) to capture delayed and non-linear effects of weather variables (temperature, precipitation, humidity, wind speed) on price formation. 
 
