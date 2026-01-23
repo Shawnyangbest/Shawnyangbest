@@ -8,7 +8,7 @@ author_profile: True
 ## Theme 1: Systemic Consequence of Climate Change 
 **Focus:** Network contagion; default cascades; regional economic damages; spatial dependence.
 
-**Spillover Losses in Reinsurance Network under Common Shocks** (with Hua Chen and Qihe Tang)
+**Spillover Losses in Reinsurance Network under Common Shocks** (with Qihe Tang and Hua Chen)
 
 We construct a reinsurance network where (re)insurers engage in reinsurance and retrocession transactions to transfer insured risks from policyholders. We investigate systemic risk within this network framework, measured by spillover loss occurring when liability
 payoffs decrease due to cascading defaults. Under tail dependence between primary losses, we analyze how integration of the reinsurance network shapes its spillover loss. Our findings reveal that integration exhibits a U-shaped relationship with spillover loss in reinsurance networks. We further implement a leave-one-out (LOO) approach to identify systemically important reinsurers and validate their importance through tests of bailout. Using data from the U.S. Property and Casualty reinsurance market, we identify a core-periphery structure and conduct extensive simulations that support our key findings.
@@ -32,5 +32,5 @@ We improve day-ahead electricity price forecasting in Australia by integrating l
 **Focus:** Dual control problem; high-dimensional problem; deep learning method.
 
 **Peer-reviewed publications (Master’s):**
-- Ma, J. and Yang, S. (2024). *High-dimensional stochastic control models for newsvendor problems and deep learning resolution*. **Annals of Operations Research**, 339, 789–811.
-- Ma, J., Xing, J., and Yang, S. (2022). *Dual Control Methods for a Mixed Control Problem with Optimal Stopping Arising in Optimal Consumption and Investment*. **Numerical Mathematics: Theory, Methods and Applications**, 15(3), 641-661.
+- Ma, J. and **Yang, S**. (2024). High-dimensional stochastic control models for newsvendor problems and deep learning resolution. *Annals of Operations Research*, 339, 789–811.
+- Ma, J., Xing, J., and **Yang, S**. (2022). Dual Control Methods for a Mixed Control Problem with Optimal Stopping Arising in Optimal Consumption and Investment*. *Numerical Mathematics: Theory, Methods and Applications, 15(3), 641-661.
