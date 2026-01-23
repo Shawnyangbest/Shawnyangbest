@@ -28,7 +28,7 @@ We improve day-ahead electricity price forecasting in Australia by integrating l
 
 ---
 
-## Theme 3: Stochastic Control Problems in Finance and Its Solutions
+## Theme 3: Stochastic Control Problems in Finance
 **Focus:** Dual control problem; high-dimensional problem; deep learning method.
 
 **Peer-reviewed publications (Master’s):**
