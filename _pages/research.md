@@ -22,7 +22,7 @@ We develop a Bayesian learning framework to study deep uncertainty in the econom
 ---
 
 ## Theme 2: Electricity Price Forecasting with Weather Indices
-**Focus:** Day-ahead forecasting; interpretable models.
+**Focus:** Shor-term forecasting; weather variables; interpretable models.
 
 **Forecasting Australian Electricity Spot Prices with Weather Indices** (with Katja Ignatieva and Han Li)
 
