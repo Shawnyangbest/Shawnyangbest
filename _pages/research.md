@@ -31,7 +31,7 @@ normal distribution. Our empirical analysis is based on the FUND dataset and
 on Representative Concentration Pathways (RCPs) adopted by the
 Intergovernmental Panel on Climate Change (IPCC).
 
-*Awarded 2025–2026 UNSW Business School Sustainable Development Goals (SDGs) Research Grant*.  [[UNSW News feature](https://www.unsw.edu.au/news/2026/03/driving-sustainable-change)]
+*Awarded 2025–2026 UNSW Business School Sustainable Development Goals (SDGs) Research Grant*.  [[UNSW News Feature](https://www.unsw.edu.au/news/2026/03/driving-sustainable-change)]
 
 ---
 
