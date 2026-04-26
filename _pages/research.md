@@ -31,7 +31,7 @@ normal distribution. Our empirical analysis is based on the FUND dataset and
 on Representative Concentration Pathways (RCPs) adopted by the
 Intergovernmental Panel on Climate Change (IPCC).
 
-*Awarded 2025–2026 UNSW Business School Sustainable Development Goals (SDGs) Research Grant*
+*Awarded 2025–2026 UNSW Business School Sustainable Development Goals (SDGs) Research Grant*.  [[UNSW News feature](https://www.unsw.edu.au/news/2026/03/driving-sustainable-change)]
 
 ---
 
@@ -49,5 +49,5 @@ We improve day-ahead electricity price forecasting in Australia by integrating l
 **Focus:** Deep learning method; high-dimensional control problem;  optimal retirement.
 
 **Peer-reviewed publications (Master’s):**
-- Ma, J. and **Yang, S** (2024). High-dimensional stochastic control models for newsvendor problems and deep learning resolution. *Annals of Operations Research*, 339, 789–811.
-- Ma, J., Xing, J., and **Yang, S**. (2022). Dual control methods for a mixed control problem with optimal stopping arising in optimal consumption and investment. *Numerical Mathematics: Theory, Methods and Applications*, 15(3), 641-661.
+- Ma, J. and **Yang, S** (2024). High-dimensional stochastic control models for newsvendor problems and deep learning resolution. *Annals of Operations Research*, 339, 789–811. [[Paper](https://link.springer.com/article/10.1007/s10479-024-05872-2)]
+- Ma, J., Xing, J., and **Yang, S**. (2022). Dual control methods for a mixed control problem with optimal stopping arising in optimal consumption and investment. *Numerical Mathematics: Theory, Methods and Applications*, 15(3), 641-661. [[Paper](https://global-sci.com/index.php/nmtma/article/view/14399)]
